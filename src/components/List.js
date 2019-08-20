@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import NoteCard from './NoteCard';
 
 class List extends React.Component {
